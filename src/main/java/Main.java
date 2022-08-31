@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println();
+        FirsrtClass firsrtClass = new FirsrtClass(1,"123");
     }
 }
